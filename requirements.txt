@@ -1,0 +1,7 @@
+numpy
+jittor
+pygmtools
+torch
+tqdm
+scikit-learn
+matplotlib
